@@ -37,10 +37,14 @@ First thing you will need to do is adding your slides to the slider, slides are 
 | :--- | :--- |
 | Slide Layout | This is the slide picker control which fetches all your saved divi layouts and allow you to select a layout as a slide. |
 | Slide Label | This serves as the Slide label shows in admin, Menu Text \(when Nav Menu control is enabled\) and also as custom hashURL \(the slide id you see in the url as \#something\). **You must enter unique name here and that should not be same for any other slide on a page.** |
+| Use Icon | For Nav Menu Control. If you are using Nav menu control and wish to add an **ICON** to the menu for this particular slide, you may turn on this option. |
+| -- Icon | Select your desired icon |
+| Use Image | For Nav Menu Control. If you are using Nav menu control and wish to add an **IMAGE** to the menu for this particular slide, you may turn on this option. |
+|Image/Icon Placement|Here you may adjust the Icon/Image position for this particular menu item.|
 
 #### Controls:
 
-Anything slider comes with built-in different controls which allow you to make a powerful slider or an interactive content section which may not be easily possible without this plugin. 
+Anything slider comes with built-in different controls which allow you to make a powerful slider or an interactive content section which may not be easily possible without this plugin.
 
 | Control Options | Details/Explaination |
 | :--- | :--- |
