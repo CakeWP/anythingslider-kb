@@ -73,45 +73,15 @@ Anything slider comes with built-in different controls which allow you to make a
 | -- Dot Control Position | Similar to other 2 controls, you may also set position where you wish the dot control to display. |
 | Show Controls on Hover | If turned ON, all the controls \(Next/Previous, Nav Menu or Dot\) will display on mouse hover on slider only. |
 
-# Section 4
+#### Animation
+Anything slider comes with tons of animation controls to make your slider/interactive content more appealing.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
+| Control Options | Details/Explaination |
+| :--- | :--- |
+|Animation In|This is your slide In animation, you got bunch of animations to select from|
+|Animation Out|This is your slide Out animation, you got bunch of animations to select from|
+|Automatic Animation|By default this is turned off and slider will only work via the controls, however you may enable this and adjust the other options as explained bellow.|
+|Automatic Animation Speed (in ms)|Here you can designate how fast the slider fades between each slide, if 'Automatic Animation' option is enabled above. The higher the number the longer the pause between each rotation. 1000 = 1 second|
+|Continue Automatic Slide on Hover|By default if automatic sliding will be paused if a user mouse hover on your slider, turning this on will allow automatic sliding to continue on mouse hover.|
 
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
-
-# Section 5
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
-
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
-
-# Section 6
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
-
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
-
-# Section 7
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
-
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
-
-# Section 8
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
-
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
-
-# Section 9
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
-
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
-
-# Section 10
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
-
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
 
