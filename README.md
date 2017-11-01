@@ -94,4 +94,5 @@ There are some other powerful settings as well, explained bellow.
 |Auto Height|If you got different height for your content in each of your slide, then your slider by default will set a heigh equal to the longest slide's height. However turning this option on will make the slider to adjust height on each slide.|
 |Touch / Mosue Drag|This option will enable/disable the possibility to change slide via touch on mobile and dragging on desktop via mouse cursor.|
 |URLhash|Turning this off will disable the custom ID appear in the url bar for each slide. **If turned off then the AS Menu module will not work as it works however the built-in Nav Menu control will still work.**|
+|Enable RTL support|If you got a website with an RTL language, you need to turn this ON to make slider work properly. *Note: This is not something related to make translation work.* |
 
