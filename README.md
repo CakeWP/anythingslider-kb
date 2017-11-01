@@ -34,7 +34,10 @@ Following option you will find under the Content Tab.
 
 | Options | Details/Description |
 | :--- | :--- |
-| Add New Slide  | Here you will add all your slides, which you have saved in divi layout. This also got sub options as follows. |
+| Add New Slide | Here you will add all your slides, which you have saved in divi layout. This also got sub options as follows. |
+|  |  |
+|  |  |
+|  |  |
 
 # Section 4
 
