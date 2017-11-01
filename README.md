@@ -93,5 +93,5 @@ There are some other powerful settings as well, explained bellow.
 |Loop Slider|If turned on, which will make the slider to not stop automatic sliding if the last slide is reached, it will make it keep sliding from the first slide again and process goes on.
 |Auto Height|If you got different height for your content in each of your slide, then your slider by default will set a heigh equal to the longest slide's height. However turning this option on will make the slider to adjust height on each slide.|
 |Touch / Mosue Drag|This option will enable/disable the possibility to change slide via touch on mobile and dragging on desktop via mouse cursor.|
-
+|URLhash|Turning this off will disable the custom ID appear in the url bar for each slide. **If turned off then the AS Menu module will not work as it works however the built-in Nav Menu control will still work.**|
 
