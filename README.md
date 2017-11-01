@@ -33,14 +33,27 @@ Following option you will find under the Content Tab.
 
 First thing you will need to do is adding your slides to the slider, slides are your saved divi layouts. First you will need to create those slides simply as you create a divi section and then save those sections in the divi layout library. Then when you add the slider module and edit it you will be able to pick those saved slide layouts from the slide picker control here.
 
-| Add Slide Controls | Details/Explaination |
+| Add Slide - Content Options | Details/Explaination |
 | :--- | :--- |
 | Slide Layout | This is the slide picker control which fetches all your saved divi layouts and allow you to select a layout as a slide. |
 | Slide Label | This serves as the Slide label shows in admin, Menu Text \(when Nav Menu control is enabled\) and also as custom hashURL \(the slide id you see in the url as \#something\). **You must enter unique name here and that should not be same for any other slide on a page.** |
 | Use Icon | For Nav Menu Control. If you are using Nav menu control and wish to add an **ICON** to the menu for this particular slide, you may turn on this option. |
 | -- Icon | Select your desired icon |
 | Use Image | For Nav Menu Control. If you are using Nav menu control and wish to add an **IMAGE** to the menu for this particular slide, you may turn on this option. |
-|Image/Icon Placement|Here you may adjust the Icon/Image position for this particular menu item.|
+| Image/Icon Placement | Here you may adjust the Icon/Image position for this particular menu item. |
+
+If **Use Icon** Option is turned on from the Content Tab then you will get following controls in the design tab.
+
+| Add Slide - Design Options | Details/Explaination |
+| :--- | :--- |
+| Custom Icon Styling | Enabling this will allow you to customize the styling of your icon for this particular slide's Menu item. |
+|-- Icon Color|Adjust the icon color here|
+|-- Icon Color - Active/Hover|Adjust the color for icon for Active Menu or on Menu hover state.|
+|-- Circle Icon|If you wish to have a circle background behind your icon then enable this option.|
+|----Circle Color|Adjust the color of circle|
+|--- Show Circle Border| Enable if you also need a border on the circle.|
+|----Circle Border Color|adjust the color of circle border|
+|Icon Font Size|Adjust icon size|
 
 #### Controls:
 
