@@ -29,8 +29,7 @@ Let’s review the options it has.
 
 Following option you will find under the Content Tab.
 
-* Add New Slide: 
-* | Options | Details/Description |
+|  | Details/Description |
   | :--- | :--- |
   | Add New Slide | Here you will add your slides and select a saved divi layout in each slide. This also got sub options as follows. |
   | Next/Previous Control | If turned on, the next & previous control will be enabled on slider. If turned on will show following options. |
