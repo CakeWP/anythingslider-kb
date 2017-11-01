@@ -1,32 +1,36 @@
-# section 1
+# How to Install
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
+Once you purchased you will get a zip folder. This is the plugin folder which you need to upload to plugins &gt; add new screen. Once installed simply activate it.
 
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
+**That easy!**
 
-Nam ac faucibus tortor. Praesent sed bibendum nibh. Pellentesque quis urna suscipit, sodales lacus vitae, porta tellus. Nam congue odio ut risus porttitor, eget malesuada sapien blandit. Praesent euismod rhoncus dui vitae accumsan. Pellentesque fermentum malesuada eleifend. Sed vel nisi eu nibh egestas ultricies iaculis ut nulla. Cras at orci felis.
+[![Video instruction](http://img.youtube.com/vi/a1ZdBdFsteQ/0.jpg)](http://www.youtube.com/watch?v=a1ZdBdFsteQ)  
+watch video instruction \(click image above\)
 
-Nam arcu ipsum, fermentum sed consequat eget, malesuada et velit. Nulla vestibulum fermentum tortor. Mauris dictum efficitur porttitor. Pellentesque fringilla at sapien sed commodo. Curabitur ornare mauris non enim faucibus ultrices. In eu dolor libero. Donec mi augue, suscipit sed tellus nec, convallis commodo ex.
+---
 
-# Section 2
+# Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
+Anything Slider plugin comes with 2 modules:
 
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
+1. Anything Slider Module
+2. AS Menu Module
 
-Nam ac faucibus tortor. Praesent sed bibendum nibh. Pellentesque quis urna suscipit, sodales lacus vitae, porta tellus. Nam congue odio ut risus porttitor, eget malesuada sapien blandit. Praesent euismod rhoncus dui vitae accumsan. Pellentesque fermentum malesuada eleifend. Sed vel nisi eu nibh egestas ultricies iaculis ut nulla. Cras at orci felis.
+Slider module as the name suggests is the module which you will use to create your sliders, content sections, etc.
 
-Nam arcu ipsum, fermentum sed consequat eget, malesuada et velit. Nulla vestibulum fermentum tortor. Mauris dictum efficitur porttitor. Pellentesque fringilla at sapien sed commodo. Curabitur ornare mauris non enim faucibus ultrices. In eu dolor libero. Donec mi augue, suscipit sed tellus nec, convallis commodo ex.
+And the Menu module is creatively developed external menu control for sliders. You will be able to create the custom menu, tabs, filters using this menu and can link each menu item to a specific slide.
 
-# Section 3
+**New \(v1.2\):**This update includes a built-in Nave Menu control, which will create the menu automatically by just enabling the control within your Slider module General Tab. This control is much better to use in most of the use cases however the separate AS Menu module may come handy in some advanced use cases.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
+# Anything Slider Module
 
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
+This is the main module. Using this module you will create your sliders, filterable, carousels, tabs, anything creative.
 
-Nam ac faucibus tortor. Praesent sed bibendum nibh. Pellentesque quis urna suscipit, sodales lacus vitae, porta tellus. Nam congue odio ut risus porttitor, eget malesuada sapien blandit. Praesent euismod rhoncus dui vitae accumsan. Pellentesque fermentum malesuada eleifend. Sed vel nisi eu nibh egestas ultricies iaculis ut nulla. Cras at orci felis.
+Let’s review the options it has.
 
-Nam arcu ipsum, fermentum sed consequat eget, malesuada et velit. Nulla vestibulum fermentum tortor. Mauris dictum efficitur porttitor. Pellentesque fringilla at sapien sed commodo. Curabitur ornare mauris non enim faucibus ultrices. In eu dolor libero. Donec mi augue, suscipit sed tellus nec, convallis commodo ex.
+| Options | Details/Descriptions |
+| :--- | :--- |
+|  |  |
 
 # Section 4
 
@@ -69,3 +73,4 @@ Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper ero
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
 
 Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
+
