@@ -25,13 +25,25 @@ This is the main module. Using this module you will create your sliders, filtera
 
 Let’s review the options it has.
 
-### Content Options
+## Content Options
 
 Following option you will find under the Content Tab.
 
-| Option | Details/Description |
+#### Add Slides
+
+First thing you will need to do is adding your slides to the slider, slides are your saved divi layouts. First you will need to create those slides simply as you create a divi section and then save those sections in the divi layout library. Then when you add the slider module and edit it you will be able to pick those saved slide layouts from the slide picker control here.
+
+| Add Slide Controls | Details/Explaination |
 | :--- | :--- |
-| Add New Slide | Here you will add your slides and select a saved divi layout in each slide. This also got sub options as follows. |
+| Slide Layout | This is the slide picker control which fetches all your saved divi layouts and allow you to select a layout as a slide. |
+| Slide Label | This serves as the Slide label shows in admin, Menu Text \(when Nav Menu control is enabled\) and also as custom hashURL \(the slide id you see in the url as \#something\). **You must enter unique name here and that should not be same for any other slide on a page.** |
+
+#### Controls:
+
+Anything slider comes with built-in different controls which allow you to make a powerful slider or an interactive content section which may not be easily possible without this plugin. 
+
+| Control Options | Details/Explaination |
+| :--- | :--- |
 | Next/Previous Control | If turned on, the next & previous control will be enabled on slider. If turned on will show following options. |
 | -- Next Label | Text label for next control button |
 | -- Prev Label | Text label for previous control button |
