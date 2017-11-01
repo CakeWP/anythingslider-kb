@@ -84,4 +84,14 @@ Anything slider comes with tons of animation controls to make your slider/intera
 |Automatic Animation Speed (in ms)|Here you can designate how fast the slider fades between each slide, if 'Automatic Animation' option is enabled above. The higher the number the longer the pause between each rotation. 1000 = 1 second|
 |Continue Automatic Slide on Hover|By default if automatic sliding will be paused if a user mouse hover on your slider, turning this on will allow automatic sliding to continue on mouse hover.|
 
+#### Other Settings
+
+There are some other powerful settings as well, explained bellow.
+
+| Control Options | Details/Explaination |
+| :--- | :--- |
+|Loop Slider|If turned on, which will make the slider to not stop automatic sliding if the last slide is reached, it will make it keep sliding from the first slide again and process goes on.
+|Auto Height|If you got different height for your content in each of your slide, then your slider by default will set a heigh equal to the longest slide's height. However turning this option on will make the slider to adjust height on each slide.|
+|Touch / Mosue Drag|This option will enable/disable the possibility to change slide via touch on mobile and dragging on desktop via mouse cursor.|
+
 
