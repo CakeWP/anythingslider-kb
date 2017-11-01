@@ -96,3 +96,9 @@ There are some other powerful settings as well, explained bellow.
 |URLhash|Turning this off will disable the custom ID appear in the url bar for each slide. **If turned off then the AS Menu module will not work as it works however the built-in Nav Menu control will still work.**|
 |Enable RTL support|If you got a website with an RTL language, you need to turn this ON to make slider work properly. *Note: This is not something related to make translation work.* |
 
+#### Background
+
+Here you may add some background styling to your slider if you wish. This is the latest Divi background control which allow you to add color, gradient, image or a video as the background. Really powerful control.
+
+
+
