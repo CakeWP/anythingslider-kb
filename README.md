@@ -1,34 +1,43 @@
-# section 1
+# How to Install
 
-{% youtube src="https://www.youtube.com/watch?v=9bZkp7q19f0" %}{% endyoutube %}
+Once you purchased you will get a zip folder. This is the plugin folder which you need to upload to plugins &gt; add new screen. Once installed simply activate it.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
+**That easy!**
 
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
+[![Video instruction](http://img.youtube.com/vi/a1ZdBdFsteQ/0.jpg)](http://www.youtube.com/watch?v=a1ZdBdFsteQ)  
+watch video instruction \(click image above\)
 
-Nam ac faucibus tortor. Praesent sed bibendum nibh. Pellentesque quis urna suscipit, sodales lacus vitae, porta tellus. Nam congue odio ut risus porttitor, eget malesuada sapien blandit. Praesent euismod rhoncus dui vitae accumsan. Pellentesque fermentum malesuada eleifend. Sed vel nisi eu nibh egestas ultricies iaculis ut nulla. Cras at orci felis.
+---
 
-Nam arcu ipsum, fermentum sed consequat eget, malesuada et velit. Nulla vestibulum fermentum tortor. Mauris dictum efficitur porttitor. Pellentesque fringilla at sapien sed commodo. Curabitur ornare mauris non enim faucibus ultrices. In eu dolor libero. Donec mi augue, suscipit sed tellus nec, convallis commodo ex.
+# Overview
 
-# Section 2
+Anything Slider plugin comes with 2 modules:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
+1. Anything Slider Module
+2. AS Menu Module
 
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
+Slider module as the name suggests is the module which you will use to create your sliders, content sections, etc.
 
-Nam ac faucibus tortor. Praesent sed bibendum nibh. Pellentesque quis urna suscipit, sodales lacus vitae, porta tellus. Nam congue odio ut risus porttitor, eget malesuada sapien blandit. Praesent euismod rhoncus dui vitae accumsan. Pellentesque fermentum malesuada eleifend. Sed vel nisi eu nibh egestas ultricies iaculis ut nulla. Cras at orci felis.
+And the Menu module is creatively developed external menu control for sliders. You will be able to create the custom menu, tabs, filters using this menu and can link each menu item to a specific slide.
 
-Nam arcu ipsum, fermentum sed consequat eget, malesuada et velit. Nulla vestibulum fermentum tortor. Mauris dictum efficitur porttitor. Pellentesque fringilla at sapien sed commodo. Curabitur ornare mauris non enim faucibus ultrices. In eu dolor libero. Donec mi augue, suscipit sed tellus nec, convallis commodo ex.
+**New \(v1.2\):**This update includes a built-in Nave Menu control, which will create the menu automatically by just enabling the control within your Slider module General Tab. This control is much better to use in most of the use cases however the separate AS Menu module may come handy in some advanced use cases.
 
-# Section 3
+# Anything Slider Module
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec efficitur massa. Sed dapibus pharetra nunc id egestas. Curabitur malesuada porta enim, a ultrices augue dignissim quis. Curabitur vel sapien a sem pretium ultrices non nec neque. Ut mattis lobortis mi sit amet elementum. Pellentesque eu porta diam. Proin auctor hendrerit dapibus. Curabitur nec posuere odio, id tristique diam. Ut in sagittis urna, ac faucibus neque. Aliquam elementum blandit lorem, ac aliquam erat condimentum vel. Etiam nec molestie enim.
+This is the main module. Using this module you will create your sliders, filterable, carousels, tabs, anything creative.
 
-Etiam faucibus massa feugiat sem ultricies egestas. Curabitur in ullamcorper eros, eget efficitur leo. Etiam ipsum elit, tempor vestibulum libero tempus, venenatis consequat massa. Nullam rutrum augue sed ligula consectetur sodales. Cras ornare enim non sem volutpat laoreet. Duis mattis nibh non interdum cursus. Nulla facilisi.
+Let’s review the options it has.
 
-Nam ac faucibus tortor. Praesent sed bibendum nibh. Pellentesque quis urna suscipit, sodales lacus vitae, porta tellus. Nam congue odio ut risus porttitor, eget malesuada sapien blandit. Praesent euismod rhoncus dui vitae accumsan. Pellentesque fermentum malesuada eleifend. Sed vel nisi eu nibh egestas ultricies iaculis ut nulla. Cras at orci felis.
+### Content Options
 
-Nam arcu ipsum, fermentum sed consequat eget, malesuada et velit. Nulla vestibulum fermentum tortor. Mauris dictum efficitur porttitor. Pellentesque fringilla at sapien sed commodo. Curabitur ornare mauris non enim faucibus ultrices. In eu dolor libero. Donec mi augue, suscipit sed tellus nec, convallis commodo ex.
+Following option you will find under the Content Tab.
+
+| Options | Details/Description |
+| :--- | :--- |
+| Add New Slide | Here you will add all your slides, which you have saved in divi layout. This also got sub options as follows. |
+|  |  |
+|  |  |
+|  |  |
 
 # Section 4
 
