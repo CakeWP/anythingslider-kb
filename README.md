@@ -3,10 +3,7 @@
 Once you purchased you will get a zip folder. This is the plugin folder which you need to upload to plugins &gt; add new screen. Once installed simply activate it.
 
 **That easy!**
-
-[![Video instruction](http://img.youtube.com/vi/a1ZdBdFsteQ/0.jpg)](http://www.youtube.com/watch?v=a1ZdBdFsteQ)  
-watch video instruction \(click image above\)
-
+{% youtube src="https://www.youtube.com/watch?v=a1ZdBdFsteQ" %}{% endyoutube %}
 ---
 
 # Overview
